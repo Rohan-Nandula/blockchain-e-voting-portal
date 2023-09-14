@@ -1,1 +1,2 @@
 # blockchain-e-voting-portal
+An E-voting portal using Blockchain technologies and Frameworks including Smart Contracts, Truffle, Ganache etc. It leverages the security offered by blockchain to ensure safe voting systems.
